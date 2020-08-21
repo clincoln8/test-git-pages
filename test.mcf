@@ -1,0 +1,12 @@
+Node: dcid:bio/test1
+prop: "textVal"
+nodeProp: dcid:nodeID
+
+Node: dcid:bio/test2
+typeOf: fakeProp
+nodeProp2: dcid:bio/test1
+
+Node: dcid:bio/CHEMBL1200705
+typeOf: schema:Drug
+localPropName: "local Prop Value"
+localNodeProp: dcid:bio/test2
