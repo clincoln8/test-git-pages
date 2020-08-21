@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-git-pages/react-dir/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test-git-pages/react-dir/static/js/main.06e46476.chunk.js",
-    "main.js.map": "/test-git-pages/react-dir/static/js/main.06e46476.chunk.js.map",
-    "runtime-main.js": "/test-git-pages/react-dir/static/js/runtime-main.4336cae3.js",
-    "runtime-main.js.map": "/test-git-pages/react-dir/static/js/runtime-main.4336cae3.js.map",
-    "static/js/2.6ba974bd.chunk.js": "/test-git-pages/react-dir/static/js/2.6ba974bd.chunk.js",
-    "static/js/2.6ba974bd.chunk.js.map": "/test-git-pages/react-dir/static/js/2.6ba974bd.chunk.js.map",
-    "index.html": "/test-git-pages/react-dir/index.html",
-    "precache-manifest.b4d7c8e9bb9190617f85b4181ee708e1.js": "/test-git-pages/react-dir/precache-manifest.b4d7c8e9bb9190617f85b4181ee708e1.js",
-    "service-worker.js": "/test-git-pages/react-dir/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/test-git-pages/react-dir/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6ba974bd.chunk.js.LICENSE.txt": "/test-git-pages/react-dir/static/js/2.6ba974bd.chunk.js.LICENSE.txt"
+    "main.css": "/test-git-pages/react-dir/build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/test-git-pages/react-dir/build/static/js/main.67d65ab8.chunk.js",
+    "main.js.map": "/test-git-pages/react-dir/build/static/js/main.67d65ab8.chunk.js.map",
+    "runtime-main.js": "/test-git-pages/react-dir/build/static/js/runtime-main.646343ae.js",
+    "runtime-main.js.map": "/test-git-pages/react-dir/build/static/js/runtime-main.646343ae.js.map",
+    "static/js/2.6ba974bd.chunk.js": "/test-git-pages/react-dir/build/static/js/2.6ba974bd.chunk.js",
+    "static/js/2.6ba974bd.chunk.js.map": "/test-git-pages/react-dir/build/static/js/2.6ba974bd.chunk.js.map",
+    "index.html": "/test-git-pages/react-dir/build/index.html",
+    "precache-manifest.cc2107554e642ef9592c28080ac35880.js": "/test-git-pages/react-dir/build/precache-manifest.cc2107554e642ef9592c28080ac35880.js",
+    "service-worker.js": "/test-git-pages/react-dir/build/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/test-git-pages/react-dir/build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6ba974bd.chunk.js.LICENSE.txt": "/test-git-pages/react-dir/build/static/js/2.6ba974bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4336cae3.js",
+    "static/js/runtime-main.646343ae.js",
     "static/js/2.6ba974bd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.06e46476.chunk.js"
+    "static/js/main.67d65ab8.chunk.js"
   ]
 }
