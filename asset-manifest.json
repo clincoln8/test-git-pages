@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-git-pages/react-browser/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test-git-pages/react-browser/static/js/main.1a4ac05c.chunk.js",
-    "main.js.map": "/test-git-pages/react-browser/static/js/main.1a4ac05c.chunk.js.map",
-    "runtime-main.js": "/test-git-pages/react-browser/static/js/runtime-main.facb2da5.js",
-    "runtime-main.js.map": "/test-git-pages/react-browser/static/js/runtime-main.facb2da5.js.map",
-    "static/js/2.6ba974bd.chunk.js": "/test-git-pages/react-browser/static/js/2.6ba974bd.chunk.js",
-    "static/js/2.6ba974bd.chunk.js.map": "/test-git-pages/react-browser/static/js/2.6ba974bd.chunk.js.map",
-    "index.html": "/test-git-pages/react-browser/index.html",
-    "precache-manifest.fb36b85a6b9d92fd2e1a126b5a96d174.js": "/test-git-pages/react-browser/precache-manifest.fb36b85a6b9d92fd2e1a126b5a96d174.js",
-    "service-worker.js": "/test-git-pages/react-browser/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/test-git-pages/react-browser/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6ba974bd.chunk.js.LICENSE.txt": "/test-git-pages/react-browser/static/js/2.6ba974bd.chunk.js.LICENSE.txt"
+    "main.css": "/test-git-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/test-git-pages/static/js/main.a91d2cb4.chunk.js",
+    "main.js.map": "/test-git-pages/static/js/main.a91d2cb4.chunk.js.map",
+    "runtime-main.js": "/test-git-pages/static/js/runtime-main.ac5d3ba4.js",
+    "runtime-main.js.map": "/test-git-pages/static/js/runtime-main.ac5d3ba4.js.map",
+    "static/js/2.6ba974bd.chunk.js": "/test-git-pages/static/js/2.6ba974bd.chunk.js",
+    "static/js/2.6ba974bd.chunk.js.map": "/test-git-pages/static/js/2.6ba974bd.chunk.js.map",
+    "index.html": "/test-git-pages/index.html",
+    "precache-manifest.a6f33d813a09d550ed3139a036652380.js": "/test-git-pages/precache-manifest.a6f33d813a09d550ed3139a036652380.js",
+    "service-worker.js": "/test-git-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/test-git-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6ba974bd.chunk.js.LICENSE.txt": "/test-git-pages/static/js/2.6ba974bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.facb2da5.js",
+    "static/js/runtime-main.ac5d3ba4.js",
     "static/js/2.6ba974bd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1a4ac05c.chunk.js"
+    "static/js/main.a91d2cb4.chunk.js"
   ]
 }
