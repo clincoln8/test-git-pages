@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-git-pages/react-browser/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test-git-pages/react-browser/build/static/js/main.bd2fe360.chunk.js",
-    "main.js.map": "/test-git-pages/react-browser/build/static/js/main.bd2fe360.chunk.js.map",
+    "main.css": "/test-git-pages/react-browser/build/static/css/main.386252e1.chunk.css",
+    "main.js": "/test-git-pages/react-browser/build/static/js/main.d45cc640.chunk.js",
+    "main.js.map": "/test-git-pages/react-browser/build/static/js/main.d45cc640.chunk.js.map",
     "runtime-main.js": "/test-git-pages/react-browser/build/static/js/runtime-main.066ab085.js",
     "runtime-main.js.map": "/test-git-pages/react-browser/build/static/js/runtime-main.066ab085.js.map",
-    "static/js/2.6ba974bd.chunk.js": "/test-git-pages/react-browser/build/static/js/2.6ba974bd.chunk.js",
-    "static/js/2.6ba974bd.chunk.js.map": "/test-git-pages/react-browser/build/static/js/2.6ba974bd.chunk.js.map",
+    "static/js/2.da6f6b8b.chunk.js": "/test-git-pages/react-browser/build/static/js/2.da6f6b8b.chunk.js",
+    "static/js/2.da6f6b8b.chunk.js.map": "/test-git-pages/react-browser/build/static/js/2.da6f6b8b.chunk.js.map",
     "index.html": "/test-git-pages/react-browser/build/index.html",
-    "precache-manifest.de02c29cb629ff4a92903748ab71773a.js": "/test-git-pages/react-browser/build/precache-manifest.de02c29cb629ff4a92903748ab71773a.js",
+    "precache-manifest.6d950ee6088d0e6a599a9e09c95c8897.js": "/test-git-pages/react-browser/build/precache-manifest.6d950ee6088d0e6a599a9e09c95c8897.js",
     "service-worker.js": "/test-git-pages/react-browser/build/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/test-git-pages/react-browser/build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6ba974bd.chunk.js.LICENSE.txt": "/test-git-pages/react-browser/build/static/js/2.6ba974bd.chunk.js.LICENSE.txt"
+    "static/css/main.386252e1.chunk.css.map": "/test-git-pages/react-browser/build/static/css/main.386252e1.chunk.css.map",
+    "static/js/2.da6f6b8b.chunk.js.LICENSE.txt": "/test-git-pages/react-browser/build/static/js/2.da6f6b8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.066ab085.js",
-    "static/js/2.6ba974bd.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bd2fe360.chunk.js"
+    "static/js/2.da6f6b8b.chunk.js",
+    "static/css/main.386252e1.chunk.css",
+    "static/js/main.d45cc640.chunk.js"
   ]
 }
