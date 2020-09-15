@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-git-pages/react-browser/build/static/css/main.0d1858dd.chunk.css",
-    "main.js": "/test-git-pages/react-browser/build/static/js/main.fffa1537.chunk.js",
-    "main.js.map": "/test-git-pages/react-browser/build/static/js/main.fffa1537.chunk.js.map",
+    "main.js": "/test-git-pages/react-browser/build/static/js/main.6b53fccc.chunk.js",
+    "main.js.map": "/test-git-pages/react-browser/build/static/js/main.6b53fccc.chunk.js.map",
     "runtime-main.js": "/test-git-pages/react-browser/build/static/js/runtime-main.f63e1d32.js",
     "runtime-main.js.map": "/test-git-pages/react-browser/build/static/js/runtime-main.f63e1d32.js.map",
     "static/js/2.065765b6.chunk.js": "/test-git-pages/react-browser/build/static/js/2.065765b6.chunk.js",
     "static/js/2.065765b6.chunk.js.map": "/test-git-pages/react-browser/build/static/js/2.065765b6.chunk.js.map",
     "index.html": "/test-git-pages/react-browser/build/index.html",
-    "precache-manifest.bf02815dc53002d6e454142c426dc91e.js": "/test-git-pages/react-browser/build/precache-manifest.bf02815dc53002d6e454142c426dc91e.js",
+    "precache-manifest.46d0e44c1eac0102df776e5c2811e05f.js": "/test-git-pages/react-browser/build/precache-manifest.46d0e44c1eac0102df776e5c2811e05f.js",
     "service-worker.js": "/test-git-pages/react-browser/build/service-worker.js",
     "static/css/main.0d1858dd.chunk.css.map": "/test-git-pages/react-browser/build/static/css/main.0d1858dd.chunk.css.map",
     "static/js/2.065765b6.chunk.js.LICENSE.txt": "/test-git-pages/react-browser/build/static/js/2.065765b6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f63e1d32.js",
     "static/js/2.065765b6.chunk.js",
     "static/css/main.0d1858dd.chunk.css",
-    "static/js/main.fffa1537.chunk.js"
+    "static/js/main.6b53fccc.chunk.js"
   ]
 }
