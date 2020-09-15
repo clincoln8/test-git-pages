@@ -1,0 +1,3 @@
+CGA_Dcid,CGA_Name,Drug_Name,Drug_Dcid,Gene_Name,Gene_Dcid
+bio/CGA_CHEMBL34259_hg38_PACSIN2,"CGA_CHEMBL34259_hg38_PACSIN2","drug name",bio/CHEMBL34259,"gene name",bio/hg38_PACSIN2
+bio/CGA_CHEMBL1425_hg38_PACSIN2,"bio/CGA_CHEMBL1425_hg38_PACSIN2","drug name",bio/CHEMBL1425,"gene name",bio/hg38_PACSIN2

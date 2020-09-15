@@ -1,0 +1,19 @@
+Node: E:SomeDataset->E1
+typeOf: ResponseOption
+dcid: C:SomeDataset->ResponseOption_Dcid
+name: C:SomeDataset->ResponseOption_Name
+identifier: C:SomeDataset->ResponseOption_Identifier
+text: C:SomeDataset->ResponseOption_Text
+
+Node: E:SomeDataset->E2
+hasResponseOption: E:SomeDataset->E1
+typeOf: SurveyItem
+dcid: C:SomeDataset->SurveyItem_Dcid
+
+Node: E:COVIDTracking_States->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:CumulativeCount_MedicalTest_COVID_19
+measurementMethod: dcs:CovidTrackingProject
+observationAbout: C:COVIDTracking_States->GeoId
+observationDate: C:COVIDTracking_States->Date
+value: C:COVIDTracking_States->CumulativeCount_MedicalTest_COVID_19
