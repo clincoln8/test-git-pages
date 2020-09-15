@@ -1,0 +1,16 @@
+Node: E:Test2->E0
+typeOf: dcs:ChemicalCompoundGeneAssociation
+dcid: C:Test2->CGA_Dcid
+name: C:Test2->CGA_Name
+compoundID: E:Test2->E1
+geneID: E:Test2->E2
+
+Node: E:Test2->E1
+name: C:Test2->Drug_Name
+typeOf: dcs:Drug
+dcid: C:Test2->Drug_Dcid
+
+Node: E:Test2->E2
+name: C:Test2->Gene_Name
+typeOf: dcs:Gene
+dcid: C:Test2->Gene_Dcid

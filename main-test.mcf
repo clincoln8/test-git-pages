@@ -1,0 +1,12 @@
+Node: LocalObsNode
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:CumulativeCount_MedicalTest_COVID_19
+measurementMethod: dcs:Covid19IndiaProject
+observationAbout: l:LocalIndiaNode
+observationDate: "2020-08-01"
+value: 10000
+fakeValue: l:brokenLocalRef
+
+Node: LocalIndiaNode
+typeOf: schema:Country
+dcid: "country/IND"
