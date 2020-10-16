@@ -8,7 +8,15 @@ value: 10000
 brokenLocal: l:brokenLocalRef
 remoteNode: dcid:bio/CHEMBL2
 brokenRemote: dcid:testBroken
+testRemoteFoo: dcid:f001
+testLocalFoo: l:foo1
 
 Node: LocalIndiaNode
 typeOf: schema:Country
 dcid: "country/IND"
+
+Node: localFoo
+dcid: foo1
+
+Node: foo1
+dcid: foo2
