@@ -8,7 +8,7 @@ value: 10000
 brokenLocal: l:brokenLocalRef
 remoteNode: dcid:bio/CHEMBL2
 brokenRemote: dcid:testBroken
-testRemoteFoo: dcid:f001
+testRemoteFoo: dcid:foo1
 testLocalFoo: l:foo1
 
 Node: LocalIndiaNode
