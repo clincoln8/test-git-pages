@@ -5,7 +5,9 @@ measurementMethod: dcs:Covid19IndiaProject
 observationAbout: l:LocalIndiaNode
 observationDate: "2020-08-01"
 value: 10000
-fakeValue: l:brokenLocalRef
+brokenLocal: l:brokenLocalRef
+remoteNode: dcid:bio/CHEMBL2
+brokenRemote: dcid:testBroken
 
 Node: LocalIndiaNode
 typeOf: schema:Country
