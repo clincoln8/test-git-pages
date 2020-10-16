@@ -17,6 +17,8 @@ dcid: "country/IND"
 
 Node: localFoo
 dcid: foo1
+prop: l:LocalIndiaNode
 
 Node: foo1
 dcid: foo2
+prop: dcid:country/IND
