@@ -22,3 +22,4 @@ prop: l:LocalIndiaNode
 Node: foo1
 dcid: foo2
 prop: dcid:country/IND
+prop: "A, B", "C"
