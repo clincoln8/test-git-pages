@@ -1,0 +1,23 @@
+hello
+//comment prop:val
+prop1: value1
+
+Node: l:invalidLocal
+prop2: val2
+
+Node: dcid:remote
+prop3: valid1
+dcid: "differentRemote"
+
+Node: tooMany1, tooMany2
+prop4: invalid3
+
+Node: localNode
+dcid: "validRemote"
+prop5: invalidNS: id
+prop6: "GO:bioID"
+
+Node: local2
+dcid: dcid:invalid
+: noLabel
+noVal: 
